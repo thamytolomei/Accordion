@@ -1,0 +1,23 @@
+table
+{
+    max-width:90%;
+    min-width:20%;
+    margin:0 auto;
+}
+
+th{
+    text-align:center;
+    color: rgb(100, 100, 100);
+    width:10%;
+}
+
+td, li{
+    color:rgb(82, 79, 79);
+    padding:10px;
+    font-size:13px;
+}
+
+table, th, tr, td{
+    border: 1px solid rgb(180, 175, 175);
+    border-collapse:collapse;
+}
